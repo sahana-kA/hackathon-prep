@@ -1,4 +1,4 @@
-# Hackathon Prep
+Learning opportunities 
 
 Hi! I'm an EEE student exploring technology and hackathons.
 
